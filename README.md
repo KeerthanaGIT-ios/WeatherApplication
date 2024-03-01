@@ -8,5 +8,9 @@ User-friendly Interface: Intuitive and visually appealing interface for easy nav
 
 <img width="430" alt="Screenshot 2024-03-01 at 1 04 47 PM" src="https://github.com/KeerthanaGIT-ios/WeatherApplication/assets/121998019/54f62f1a-2c51-4b20-b07a-731a907aac4e">
 
+
+
+
+
 <img width="898" alt="Screenshot 2024-03-01 at 1 05 09 PM" src="https://github.com/KeerthanaGIT-ios/WeatherApplication/assets/121998019/8bc973d8-e142-469f-aa70-eb2cc28981e9">
 
